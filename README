@@ -1,1 +1,9 @@
-Sinatra API boostrap
+= Sinatra API boostrap
+
+Continuous Integration
+
+  guard
+
+Launch developement (autoreload)
+
+  rackup
